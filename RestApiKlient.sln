@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApi2", "RestApi2\RestApi2.csproj", "{FE3B4F27-54E4-412B-B8C8-745047D5D232}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "klient", "klient\klient.csproj", "{CF883077-A7E4-4511-8F98-6A6A5E1DA7C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE3B4F27-54E4-412B-B8C8-745047D5D232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3B4F27-54E4-412B-B8C8-745047D5D232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3B4F27-54E4-412B-B8C8-745047D5D232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3B4F27-54E4-412B-B8C8-745047D5D232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF883077-A7E4-4511-8F98-6A6A5E1DA7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF883077-A7E4-4511-8F98-6A6A5E1DA7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF883077-A7E4-4511-8F98-6A6A5E1DA7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF883077-A7E4-4511-8F98-6A6A5E1DA7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D13B808-CFB1-4A22-A217-D2F006ADBCC6}
+	EndGlobalSection
+EndGlobal
